@@ -1,0 +1,6 @@
+{
+  "chromeWebSecurity": false,
+  "baseUrl": "https://katalon-demo-cura.herokuapp.com/",
+  "toConsole": true
+}
+
